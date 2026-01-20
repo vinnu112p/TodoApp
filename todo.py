@@ -18,7 +18,7 @@ class Todo(db.Model):
     
 
 
-
+#route
 
 @todo.route("/", methods = ['GET', 'POST'])
 def index():
