@@ -2,7 +2,7 @@
 
 <div align="center">
 
-*"The secret of getting ahead is getting started." - Mark Twain*
+*"The secret of getting ahead is gg started." - Mark Twain*
 
 </div>
 
